@@ -1,7 +1,7 @@
 # player_filter
 
-video player
-opengles
-filter
-Face Detection
-MTCNN NCNN
+1、video player
+2、opengles
+3、filter
+4、Face Detection
+5、MTCNN NCNN
